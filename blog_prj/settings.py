@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'disqus',
     'django_gravatar',
     'django_forms_bootstrap',
-    'debug_toolbar'
+    'debug_toolbar',
 ]
 
 MIDDLEWARE = [
